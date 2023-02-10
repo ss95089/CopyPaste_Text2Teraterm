@@ -8,7 +8,7 @@
 1. コマンドプロンプトを起動  
 
 2. ツールのEXEファイルを実行  
-   コマンドのテキストファイルは-fオプションにて指定  
+   コマンドのテキストファイルは-fオプションで指定  
 > CopyPaste_Text2Teraterm_vX.X.exe -f [command text file name]  
 
 ## 動画
